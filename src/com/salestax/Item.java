@@ -19,6 +19,6 @@ public class Item {
 
     @Override
     public int hashCode() {
-        return (int) (31 + quantity*cost);
+        return (int) (31 + quantity * cost);
     }
 }

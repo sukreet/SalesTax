@@ -10,18 +10,17 @@ public class GenerateItem {
     }
 
 
-    public int getQuantity() {
-        Scanner scanner = new Scanner(this.itemInput);
-        return scanner.nextInt();
-    }
+
 
     public Item makeItem() {
         Scanner scanner = new Scanner(this.itemInput);
         int quantity = scanner.nextInt();
-        scanner.useDelimiter(" to ");
+        scanner.useDelimiter(" at ");
         String name = scanner.next();
         float cost = scanner.nextFloat();
 
         return new Item(quantity, name, cost);
     }
+
+
 }
