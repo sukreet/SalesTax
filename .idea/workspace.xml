@@ -3,10 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0ed5cc18-2c5e-473d-9ac8-9600ef2e49c8" name="Default" comment="">
       <change type="DELETED" beforePath="$PROJECT_DIR$/Test/com/salestax/NonTaxableItemsTest.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/salestax/GenerateItem.java" afterPath="$PROJECT_DIR$/src/com/salestax/GenerateItem.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Test/com/salestax/GenerateItemTest.java" afterPath="$PROJECT_DIR$/Test/com/salestax/GenerateItemTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/salestax/Item.java" afterPath="$PROJECT_DIR$/src/com/salestax/Item.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Test/com/salestax/ItemTest.java" afterPath="$PROJECT_DIR$/Test/com/salestax/ItemTest.java" />
     </list>
     <ignored path="BasicSalesTax.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -31,8 +28,8 @@
       <file leaf-file-name="GenerateItemTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Test/com/salestax/GenerateItemTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.35181236">
-              <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+            <state vertical-scroll-proportion="0.15991472">
+              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -556,8 +553,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Test/com/salestax/GenerateItemTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35181236">
-          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+        <state vertical-scroll-proportion="0.15991472">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
